@@ -1,0 +1,2 @@
+# MyShadowsocks
+SS android demo
